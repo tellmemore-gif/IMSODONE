@@ -1,0 +1,39 @@
+[
+  {
+    "id": "aipac-instagram-c7qynjvt0m",
+    "platform": "Instagram",
+    "account": "@aipac",
+    "date": "",
+    "url": "https://www.instagram.com/p/C7QYnjvt0M-/",
+    "previewImageUrl": "https://www.instagram.com/p/C7QYnjvt0M-/media/?size=l",
+    "preview": "AIPAC Instagram post reference (ID: C7QYnjvt0M-) included for social media context in network analysis.",
+    "tags": ["AIPAC", "social", "network", "primary"]
+  },
+  {
+    "id": "aipac-x-1793122890562273283",
+    "platform": "X",
+    "account": "@AIPAC",
+    "date": "",
+    "url": "https://x.com/AIPAC/status/1793122890562273283",
+    "preview": "AIPAC X post reference (status: 1793122890562273283) included as social media evidence context.",
+    "tags": ["AIPAC", "social", "network", "primary"]
+  },
+  {
+    "id": "aipac-x-1793244320436203781",
+    "platform": "X",
+    "account": "@AIPAC",
+    "date": "",
+    "url": "https://x.com/AIPAC/status/1793244320436203781",
+    "preview": "AIPAC X post reference (status: 1793244320436203781) included as social media evidence context.",
+    "tags": ["AIPAC", "social", "network", "primary"]
+  },
+  {
+    "id": "aipac-facebook-897625199061955",
+    "platform": "Facebook",
+    "account": "AIPAC",
+    "date": "",
+    "url": "https://www.facebook.com/photo.php?fbid=897625199061955&set=a.223099833181165&type=3",
+    "preview": "AIPAC Facebook post/photo reference (fbid: 897625199061955) included for social media evidence context.",
+    "tags": ["AIPAC", "social", "network", "primary"]
+  }
+]

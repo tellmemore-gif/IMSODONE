@@ -1,0 +1,65 @@
+[
+  {
+    "id": "4022820261360143083",
+    "title": "EVANS, RYAN -> J SAL FOR OREGON",
+    "sourceType": "FEC Candidate Receipt",
+    "sourceTitle": "jessica_salas_receipts_2026.csv",
+    "sourceUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260023",
+    "filingUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260023",
+    "fecDocumentId": "202601309795260023",
+    "committeeId": "C00923581",
+    "contributorName": "EVANS, RYAN",
+    "recipientName": "J SAL FOR OREGON",
+    "amount": 300,
+    "date": "2025-12-15",
+    "memoText": "",
+    "supportOppose": "",
+    "tags": [
+      "direct-receipt",
+      "jessica"
+    ],
+    "notes": "YE | P2026 | indiv26"
+  },
+  {
+    "id": "4022820261360143084",
+    "title": "SALAS, JESSICA -> J SAL FOR OREGON",
+    "sourceType": "FEC Candidate Receipt",
+    "sourceTitle": "jessica_salas_receipts_2026.csv",
+    "sourceUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260024",
+    "filingUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260024",
+    "fecDocumentId": "202601309795260024",
+    "committeeId": "C00923581",
+    "contributorName": "SALAS, JESSICA",
+    "recipientName": "J SAL FOR OREGON",
+    "amount": 100,
+    "date": "2025-10-23",
+    "memoText": "",
+    "supportOppose": "",
+    "tags": [
+      "direct-receipt",
+      "jessica"
+    ],
+    "notes": "YE | P2026 | oth26"
+  },
+  {
+    "id": "4022820261360175428",
+    "title": "SALAS, JESSICA -> J SAL FOR OREGON",
+    "sourceType": "FEC Candidate Receipt",
+    "sourceTitle": "jessica_salas_receipts_2026.csv",
+    "sourceUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260026",
+    "filingUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260026",
+    "fecDocumentId": "202601309795260026",
+    "committeeId": "C00923581",
+    "contributorName": "SALAS, JESSICA",
+    "recipientName": "J SAL FOR OREGON",
+    "amount": 100,
+    "date": "2025-12-26",
+    "memoText": "",
+    "supportOppose": "",
+    "tags": [
+      "direct-receipt",
+      "jessica"
+    ],
+    "notes": "YE | P2026 | oth26"
+  }
+]

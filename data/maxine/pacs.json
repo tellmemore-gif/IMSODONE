@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "C00571117",
+    "name": "#VOTEPROCHOICE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00633248",
+    "name": "314 ACTION FUND",
+    "type": "super_pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00837021",
+    "name": "314 ACTION IMPACT SLATE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00884023",
+    "name": "AAPI FORWARD",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00492140",
+    "name": "AB PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00636753",
+    "name": "ACADEMY OF RAIL LABOR ATTORNEYS POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00696591",
+    "name": "ACROSS THE AISLE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00401224",
+    "name": "ACTBLUE",
+    "type": "super_pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00862177",
+    "name": "ADAM GRAY VICTORY FUND 2026",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00900886",
+    "name": "AG PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00764753",
+    "name": "AHORA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00866673",
+    "name": "ALABAMA FAMILIES PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00821058",
+    "name": "ALABAMA FIRST PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00629212",
+    "name": "ALL FOR OUR COUNTRY LEADERSHIP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00859553",
+    "name": "ALSOBROOKS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00007880",
+    "name": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00196246",
+    "name": "AMERICAN ACADEMY OF OPHTHALMOLOGY INC POLITICAL COMMITTEE (OPHTHPAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00024521",
+    "name": "AMERICAN ASSOCIATION FOR JUSTICE POLITICAL ACTION COMMITTEE (AAJ PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00364158",
+    "name": "AMERICAN COLLEGE OF OB-GYNS PAC (OB-GYN PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00009936",
+    "name": "AMERICAN FEDERATION OF GOVT. EMPL. POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00797670",
+    "name": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": true
+  },
+  {
+    "id": "C00687103",
+    "name": "AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00271338",
+    "name": "AMERIPAC: THE FUND FOR A GREATER AMERICA",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00886630",
+    "name": "AMISH SHAH VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00628354",
+    "name": "AMY KLOBUCHAR VICTORY COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00882399",
+    "name": "ANTI-PSYCHOPATH PAC INC.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00778357",
+    "name": "APL VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00836890",
+    "name": "AQUI ESTAMOS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00834101",
+    "name": "AS MAINE GOES PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00506907",
+    "name": "ASPIRE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00880336",
+    "name": "BACCAM VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00817874",
+    "name": "BARRETT BRIGADE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00751784",
+    "name": "BETH VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00542027",
+    "name": "BIG SKY OPPORTUNITY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00313510",
+    "name": "BILL PASCRELL, JR. PUBLIC SERVICE FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00753277",
+    "name": "BLACK VOTERS MATTER ACTION PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00305318",
+    "name": "BLUE DOG POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00744540",
+    "name": "BLUE SENATE CANDIDATE FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00776575",
+    "name": "BLUE STATES PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00460972",
+    "name": "BLUE WAVE PROJECT",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00415992",
+    "name": "BLUMENAUER CENTURY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00909960",
+    "name": "BLUNT ROCHESTER ALSOBROOKS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00854299",
+    "name": "BOLD AMERICA",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00734319",
+    "name": "BOOKER VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00567545",
+    "name": "BOOTS POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00655423",
+    "name": "BRIDGE THE GAP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00405050",
+    "name": "BRINGING EVERYONE TOGETHER THROUGH ADVOCACY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00886440",
+    "name": "BRITT SENATE VICTORY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00900472",
+    "name": "BRITT SENATE VICTORY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00819441",
+    "name": "BUDZINSKI VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00401034",
+    "name": "BUILDING FOUNDATIONS & LANDMARK OPPORTUNITIES PAC (BFLO PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00399196",
+    "name": "BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00880492",
+    "name": "BYNUM VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00573709",
+    "name": "CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00831545",
+    "name": "CACHE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00836346",
+    "name": "CAMPAIGN FOR DEMOCRACY COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00723189",
+    "name": "CANTWELL VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00821561",
+    "name": "CARAVEO VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00545830",
+    "name": "CASEY KEYSTONE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00771543",
+    "name": "CASSIDY LEADERSHIP FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00744920",
+    "name": "CFFE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00782508",
+    "name": "CHANGE FOR ARIZONA 2024 PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00365536",
+    "name": "CHC BOLD PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00822064",
+    "name": "CHRIS DELUZIO VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00878702",
+    "name": "CHRIS PAPPAS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00076299",
+    "name": "CME GROUP INC. PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00762260",
+    "name": "COACH PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00862995",
+    "name": "COLIN ALLRED VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00778159",
+    "name": "COMMANDER ZINKE LEADERSHIP FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00839464",
+    "name": "COMMITTED TO AMERICA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00323352",
+    "name": "COMMITTEE FOR A LIVABLE FUTURE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00620021",
+    "name": "COMMON DEFENSE ACTION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00538835",
+    "name": "COMMON GROUND PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00345058",
+    "name": "COMMON SENSE COMMON SOLUTIONS POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00823534",
+    "name": "COMMUNITIES UNITED",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00147512",
+    "name": "CONGRESSIONAL BLACK CAUCUS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00513176",
+    "name": "CONGRESSIONAL PROGRESSIVE CAUCUS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00752287",
+    "name": "CONSERVATIVE AMERICAN REPUBLICAN LEADERSHIP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00886838",
+    "name": "COOKE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00913574",
+    "name": "COOPER VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00843029",
+    "name": "COURAGEOUS LEADERS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00638320",
+    "name": "DAGA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00493072",
+    "name": "DAKOTA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00785584",
+    "name": "DASS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00873059",
+    "name": "DAVE MIN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00829754",
+    "name": "DEFEAT EXTREMISTS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00771238",
+    "name": "DEFEND THE DREAM",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00764233",
+    "name": "DEFEND THE VOTE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00829432",
+    "name": "DEFENDING AMERICA'S FUTURE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00889808",
+    "name": "DEM TURNOUT FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00760827",
+    "name": "DEMAND JUSTICE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00812917",
+    "name": "DEMOCRACY DEFENDERS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00811786",
+    "name": "DEMOCRACY DEFENSE FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00499947",
+    "name": "DEMOCRACY FOR ALL NOW PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00848648",
+    "name": "DEMOCRACY MOBILIZATION PROJECT PAC (DMP)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00664318",
+    "name": "DEMOCRACY SUMMER LEADERSHIP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00562983",
+    "name": "DEMOCRATIC ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00658476",
+    "name": "DEMOCRATIC GRASSROOTS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00781039",
+    "name": "DEMOCRATIC MAJORITY, INC.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00844639",
+    "name": "DEMOCRATIC TURNOUT PROJECT PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00829903",
+    "name": "DEMOCRATIC VALUES",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00753558",
+    "name": "DEMOCRATIC VICTORY PAC, INC.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00423079",
+    "name": "DEMOCRATS RESHAPING AMERICA (DREAMPAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00887588",
+    "name": "DEMOCRATS VOTE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00853481",
+    "name": "DEMOCRATS WHO WIN",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00775999",
+    "name": "DEPENDABLE CONSERVATIVE LEADERSHIP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00679191",
+    "name": "DIGIDEMS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00264697",
+    "name": "DIGNITY OF WORK PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00763359",
+    "name": "DIRT ROAD DEMOCRATS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00608380",
+    "name": "DLCC PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00685719",
+    "name": "DLGA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00710848",
+    "name": "DMFI PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00862912",
+    "name": "DMP VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00569871",
+    "name": "DOING RIGHT - RESULTS ACTION UNITY LEADERSHIP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00777953",
+    "name": "DSCC VICE CHAIR PADILLA FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00745786",
+    "name": "DSI",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00577189",
+    "name": "DUCKWORTH VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00864512",
+    "name": "DUNN'S DEMOCRACY DEFENDERS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00829721",
+    "name": "EARLY VOTE ACTION PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00307314",
+    "name": "EB4C PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00707844",
+    "name": "EDF ACTION VOTES",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00858126",
+    "name": "EDUCATED WE STAND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00781674",
+    "name": "ELECT BLACK DEMOCRATS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00685297",
+    "name": "ELECT DEMOCRATIC WOMEN",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00695395",
+    "name": "ELECT MORE DEMOCRATS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00907097",
+    "name": "ELISE NY VICTORY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00630632",
+    "name": "ELISE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00193433",
+    "name": "EMILYS LIST",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00859058",
+    "name": "EMMER MAJORITY BUILDERS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00573261",
+    "name": "END CITIZENS UNITED",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00853887",
+    "name": "ENERGIZED FOR CHANGE FEDERAL PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00847137",
+    "name": "ENGAGE Y'ALL PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00550970",
+    "name": "EQUALITY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00822056",
+    "name": "ERIC SORENSEN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00831214",
+    "name": "EVERY VOTE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00720029",
+    "name": "EVERYDAY PEOPLE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00688655",
+    "name": "EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00693515",
+    "name": "FAIR FIGHT",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00574970",
+    "name": "FAIR SHOT PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00716670",
+    "name": "FIGHT FOR PROGRESS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00703975",
+    "name": "FIGHT FOR THE PEOPLE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00842104",
+    "name": "FIGHT LIKE HELL PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00762328",
+    "name": "FIGHT ON PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00867028",
+    "name": "FIND OUT PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00835041",
+    "name": "FORWARD BLUE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00631549",
+    "name": "FORWARD MAJORITY ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00893362",
+    "name": "FORWARD PAC INC.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00571943",
+    "name": "FOSTERING PROGRESS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00390674",
+    "name": "FREEDOM FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00815621",
+    "name": "FRIENDS OF LIZZIE FLETCHER",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00904318",
+    "name": "FRONTLINE FIGHTERS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00848317",
+    "name": "GALLEGO VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00683250",
+    "name": "GENERATION GO LEADERSHIP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00916338",
+    "name": "GEORGIA SENATE VICTORY 2026",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00839407",
+    "name": "GET OUT THE VOTE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00540443",
+    "name": "GIFFORDS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00768762",
+    "name": "GILLIBRAND VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00847327",
+    "name": "GIULIANI DEFENSE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00431478",
+    "name": "GIVING WILLINGLY EMPOWERING NATIONALLY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00853861",
+    "name": "GLCF, INC.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00543116",
+    "name": "GOOD FRIENDS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00890137",
+    "name": "GOODLANDER VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00851048",
+    "name": "GOTTHEIMER VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00690891",
+    "name": "GRAHAM MAJORITY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00629311",
+    "name": "GRANITE VALUES PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00877845",
+    "name": "GRAYPAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00687574",
+    "name": "GREEN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00830919",
+    "name": "GRIT & HEART PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00543504",
+    "name": "GROUNDWORK PROJECT PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00858373",
+    "name": "GROW THE MAJORITY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00838912",
+    "name": "HARRIS ACTION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00744946",
+    "name": "HARRIS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00567693",
+    "name": "HAWAII PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00896811",
+    "name": "HEAL AMERICA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00771972",
+    "name": "HEARTLAND PATRIOTS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00765768",
+    "name": "HER BOLD MOVE ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00816108",
+    "name": "HISPANIC LEADERSHIP TRUST PARTNERSHIP",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00495028",
+    "name": "HMP",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00392738",
+    "name": "HOOPS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00882449",
+    "name": "HOUSE CALL PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00837492",
+    "name": "HOUSE GOP BATTLEGROUND FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00864785",
+    "name": "IN THIS TOGETHER PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00678839",
+    "name": "INDIVISIBLE ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00843557",
+    "name": "INDIVISIBLE ACTION ARIZONA",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00029447",
+    "name": "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00815753",
+    "name": "J STREET ACTION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00772517",
+    "name": "JACKY ROSEN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00806893",
+    "name": "JANE FONDA CLIMATE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00835165",
+    "name": "JARED GOLDEN VICTORY FUND 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00900258",
+    "name": "JARED GOLDEN VICTORY FUND 2026",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00684969",
+    "name": "JDCA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00834549",
+    "name": "JEFFRIES MAJORITY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00652164",
+    "name": "JERSEY VALUES PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00617803",
+    "name": "JOBS, EDUCATION, & FAMILIES FIRST  JEFF PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00536540",
+    "name": "JOBS, FREEDOM, AND SECURITY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00880708",
+    "name": "JOHN AVLON VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00771246",
+    "name": "JOHNSON LEADERSHIP FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00849216",
+    "name": "JONES VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00441949",
+    "name": "JSTREETPAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00892752",
+    "name": "JUNTOS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00630665",
+    "name": "JUSTICE DEMOCRATS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00823773",
+    "name": "JUSTICE LEAGUE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00695940",
+    "name": "KAINE FOR COMMON GROUND PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00833350",
+    "name": "KAINE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00718346",
+    "name": "KANSAS VICTORY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00831669",
+    "name": "KATHERINE CLARK MAJORITY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00883751",
+    "name": "KENNEDY VICTORY FUND 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00439992",
+    "name": "KEYSTONE AMERICA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00879429",
+    "name": "KEYSTONE BATTLEGROUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00853598",
+    "name": "KIM SCHRIER VICTORY 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00773820",
+    "name": "KIRSTEN PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00519413",
+    "name": "L PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00607721",
+    "name": "LAND OF OPPORTUNITY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00764886",
+    "name": "LASTING INVESTMENTS STRENGTHENING AMERICA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00576975",
+    "name": "LATINO LEADERS FOR EQUALITY, GROWTH, OPPORTUNITY, PROGRESSIVE ACTION & CHANGE (LLEGO-PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00876425",
+    "name": "LAURA GILLEN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00688168",
+    "name": "LAUREN UNDERWOOD VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00486845",
+    "name": "LCV VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00843110",
+    "name": "LEADERS WE DESERVE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00252940",
+    "name": "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00632398",
+    "name": "LET AMERICA VOTE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00893230",
+    "name": "LICCARDO VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00785816",
+    "name": "LIFTOFF PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00714501",
+    "name": "LILAC PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00859306",
+    "name": "LISA BLUNT ROCHESTER VICTORY FUND 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00497073",
+    "name": "LOBO PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00144170",
+    "name": "LOUISIANIANS FOR AMERICAN SECURITY POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00720565",
+    "name": "LUJAN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00365270",
+    "name": "M-PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00426809",
+    "name": "MADISON PAC; THE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00552539",
+    "name": "MAKE IT WORK PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00884007",
+    "name": "MANNION VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00542621",
+    "name": "MAPLE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00748228",
+    "name": "MARCH ON PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00822759",
+    "name": "MARIE GLUESENKAMP PEREZ VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00706861",
+    "name": "MARK KELLY VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00895227",
+    "name": "MARK WARNER ACTION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00895219",
+    "name": "MARK WARNER VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00698340",
+    "name": "MARKEY VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00835264",
+    "name": "MASSACHUSETTS SENATE VICTORY 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00541011",
+    "name": "MCCARTHY VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00848556",
+    "name": "MCKENZIE RIVER PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00685552",
+    "name": "MEDICARE FOR ALL",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00902858",
+    "name": "MEET THE MOMENT PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00896225",
+    "name": "MGP VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00723114",
+    "name": "MIKE LEVIN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00851170",
+    "name": "MIKE ROGERS VICTORY COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00683649",
+    "name": "MIND THE GAP, INC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00832147",
+    "name": "MITTEN PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00851576",
+    "name": "MONICA TRANEL VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00507574",
+    "name": "MOTOR CITY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00728360",
+    "name": "MOVEMENT VOTER PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00341396",
+    "name": "MOVEON.ORG POLITICAL ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00904417",
+    "name": "MURPHY MOBILIZATION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00403592",
+    "name": "NARRAGANSETT BAY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00030718",
+    "name": "NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00630707",
+    "name": "NATIONAL DEMOCRATIC REDISTRICTING PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00603084",
+    "name": "NATIONAL DEMOCRATIC TRAINING COMMITTEE (NDTC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00140061",
+    "name": "NATIONAL EMERGENCY MEDICINE POLITICAL ACTION COMMITTEE / AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00694299",
+    "name": "NEAL VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00829929",
+    "name": "NEVADA SENATE VICTORY 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00409730",
+    "name": "NEW DEMOCRAT COALITION ACTION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00859660",
+    "name": "NEW DEMOCRAT MAJORITY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00831164",
+    "name": "NEW YORK MAJORITY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00856153",
+    "name": "NEW. DIGITAL. NOW.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00758219",
+    "name": "NO DEM LEFT BEHIND PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00718510",
+    "name": "OCCUPY DEMOCRATS ELECTION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00578609",
+    "name": "OHIO GRASSROOTS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00752691",
+    "name": "ONE FOR ALL COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00775841",
+    "name": "ONE VIRGINIA FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00715136",
+    "name": "OREGON BLUE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00910091",
+    "name": "OSSOFF SCHIFF VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00750919",
+    "name": "OSSOFF VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00831974",
+    "name": "OUTRAGE THEN ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00850792",
+    "name": "PA RI VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00834515",
+    "name": "PAC A PUNCH",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00768887",
+    "name": "PAC FOR GOOD",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00919522",
+    "name": "PAC OF APPLES",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00754069",
+    "name": "PAF",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00825034",
+    "name": "PELTOLA VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00891168",
+    "name": "PENNSYLVANIA SENATE VICTORY 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00363770",
+    "name": "PEOPLE FOR ENTERPRISE TRADE AND ECONOMIC GROWTH (PETE PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00854430",
+    "name": "PEOPLE IN RURAL AREAS TRANSFORM ELECTIONS (PIRATE) PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00410092",
+    "name": "PEOPLE'S VOICE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00731042",
+    "name": "POWERED BY PEOPLE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00810416",
+    "name": "PRACTICING DEMOCRACY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00347195",
+    "name": "PRAIRIE POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00495861",
+    "name": "PRIORITIES USA ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00470765",
+    "name": "PROGRESS FOR OREGON",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00417493",
+    "name": "PROGRESSIVE AMERICANS FOR DEMOCRACY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00458000",
+    "name": "PROGRESSIVE CHANGE CAMPAIGN COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00659599",
+    "name": "PROGRESSIVE TAKEOVER",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00580068",
+    "name": "PROGRESSIVE TURNOUT PROJECT",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00756056",
+    "name": "PROTECT THE VOTE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00551168",
+    "name": "PUGET PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00497131",
+    "name": "PURPOSE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00858027",
+    "name": "RASKIN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00727008",
+    "name": "REBELLION PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00872101",
+    "name": "RECLAIM THE MAJORITY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00870568",
+    "name": "RENEW NEW YORK",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00804856",
+    "name": "REPUBLICAN ACCOUNTABILITY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00841130",
+    "name": "RESTORE OUR NATION (RON PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00767871",
+    "name": "REV UP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00640623",
+    "name": "RIGHT SIDE OF HISTORY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00844530",
+    "name": "ROLLING SEA ACTION FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00850933",
+    "name": "ROLLINS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00741371",
+    "name": "ROOTED IN COMMUNITY LEADERSHIP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00870956",
+    "name": "RUDY SALAS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00865410",
+    "name": "SALINAS VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00568162",
+    "name": "SCALISE LEADERSHIP FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00838896",
+    "name": "SCHIFF VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00878116",
+    "name": "SCHUMER MAJORITY COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00856427",
+    "name": "SCREAMING EAGLE PAC INC.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00757419",
+    "name": "SD PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00764274",
+    "name": "SECURE PROGRESS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00823500",
+    "name": "SECURING THE REPUBLIC FOR OUR NEXT GENERATION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00754697",
+    "name": "SEEC VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00837989",
+    "name": "SENATE OH & MT",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00883108",
+    "name": "SENATE VICTORY FOR SHERROD BROWN 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00571174",
+    "name": "SERVE AMERICA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00805556",
+    "name": "SERVE AMERICA VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00833392",
+    "name": "SFA ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00828061",
+    "name": "SFA FUND, INC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00724237",
+    "name": "SHARICE DAVIDS VICTORY FUND 2026",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00410308",
+    "name": "SHORE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00483693",
+    "name": "SIERRA CLUB INDEPENDENT ACTION",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00135368",
+    "name": "SIERRA CLUB POLITICAL COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00840462",
+    "name": "SILICORN VALLEY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00571703",
+    "name": "SLF PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00834226",
+    "name": "SLOTKIN VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00654475",
+    "name": "SMART SOLUTIONS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00484642",
+    "name": "SMP",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00885137",
+    "name": "SPEAK UP PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00787317",
+    "name": "SPIKE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00641555",
+    "name": "SQUARE ONE POLITICS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00765982",
+    "name": "STAND FOR AMERICA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00812495",
+    "name": "STATE + LOCAL ELECTION ALLIANCE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00636944",
+    "name": "STATES WIN FEDERAL PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00929315",
+    "name": "STELSON VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00633404",
+    "name": "STOP REPUBLICANS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00847673",
+    "name": "STOP THESE OPPRESSIVE PEOPLE: TYRANTS RACISTS UNQUALIFIEDS MISOGYNISTS PROPAGANDISTS (STOP TRUMP)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00804153",
+    "name": "STRENGTH IN SEVEN PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00762369",
+    "name": "SUMMITT PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00724443",
+    "name": "SUNFLOWER SEEDS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00855320",
+    "name": "SUSHEELA JAYAPAL FOR CONGRESS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00846105",
+    "name": "SUSIE LEE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00581785",
+    "name": "SUSTAINABLE ENERGY AND ENVIRONMENT COALITION PAC (SEEC PAC)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00632133",
+    "name": "SWING LEFT",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00780411",
+    "name": "TEAM BLUE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00809566",
+    "name": "TEAM BRANDON VICTORY COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00830679",
+    "name": "TEAM ELISE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00788448",
+    "name": "TEAM HAGERTY VICTORY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00773903",
+    "name": "TEAM HILL",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00852012",
+    "name": "TEAM MCCORMICK",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00544650",
+    "name": "TEAM MCHENRY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00867010",
+    "name": "TEAM MORENO",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00692343",
+    "name": "TEAM RICK SCOTT",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00884296",
+    "name": "TEAM ROGERS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00750521",
+    "name": "TEAM SCALISE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00828152",
+    "name": "TEAM STAND FOR AMERICA",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00849778",
+    "name": "TED CRUZ VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00878306",
+    "name": "TESTER TRANEL VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00547679",
+    "name": "TESTER VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00756940",
+    "name": "TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00764860",
+    "name": "THE 1776 PROJECT PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00696088",
+    "name": "THE BERGMAN VICTORY COMMITTEE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00617381",
+    "name": "THE COLLECTIVE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00607556",
+    "name": "THE GREAT TASK",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00725820",
+    "name": "THE LINCOLN PROJECT",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00629063",
+    "name": "THE MAJORITY RULES",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00716423",
+    "name": "THE NEXT 50 PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00654053",
+    "name": "THE PAC FOR AMERICA'S FUTURE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00750166",
+    "name": "THE SQUAD VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00833574",
+    "name": "TIMBER PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00525030",
+    "name": "TOGETHER EVERYONE REALIZES REAL IMPACT",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00862920",
+    "name": "TOM SUOZZI VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00756080",
+    "name": "TONY GONZALES VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00922617",
+    "name": "TORCHLIGHT PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00754598",
+    "name": "TORRES VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00488387",
+    "name": "TRI-STATE MAXED-OUT WOMEN",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00417865",
+    "name": "TRUEDEM LEADERSHIP FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00747766",
+    "name": "TRUTH TO POWER",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00517235",
+    "name": "TURQUOISE PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00677773",
+    "name": "UNITE AMERICA PAC INC.",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00799031",
+    "name": "UNITED DEMOCRACY PROJECT ('UDP')",
+    "type": "outside_group",
+    "isAipacAligned": true
+  },
+  {
+    "id": "C00912642",
+    "name": "UNRIGGED PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00772244",
+    "name": "UPSET THE SETUP",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00820464",
+    "name": "VAL HOYLE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00876466",
+    "name": "VARGAS VICTORY FUND 2024",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00692111",
+    "name": "VELVET HAMMER PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00570101",
+    "name": "VIBE PAC (VICTORY BY INVESTING BUILDING EMPOWERING)",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00697755",
+    "name": "VIRGINIA PLUS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00755363",
+    "name": "VOTE FOR EQUALITY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00835587",
+    "name": "VOTE SAVE AMERICA",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00418897",
+    "name": "VOTEVETS",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00692319",
+    "name": "VPP",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00610212",
+    "name": "WAGING PEACE",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00686832",
+    "name": "WAY TO LEAD PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00776310",
+    "name": "WE INVEST IN LIVES AND DREAMS PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00786830",
+    "name": "WELCOMEPAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00486563",
+    "name": "WEST VIRGINIA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00830885",
+    "name": "WHITEHOUSE VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00888420",
+    "name": "WHITNEY FOX VICTORY FUND",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00697441",
+    "name": "WIN THE ERA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00826362",
+    "name": "WINNING FOR AMERICA PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00694323",
+    "name": "WINRED",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00805275",
+    "name": "WINTHECENTER PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00606962",
+    "name": "WORKING FAMILIES PARTY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00853366",
+    "name": "WYDEN FUND FOR A SENATE MAJORITY",
+    "type": "pac",
+    "isAipacAligned": false
+  },
+  {
+    "id": "C00832493",
+    "name": "YOUTH SAVE DEMOCRACY PAC",
+    "type": "pac",
+    "isAipacAligned": false
+  }
+]

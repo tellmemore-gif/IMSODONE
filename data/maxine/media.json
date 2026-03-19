@@ -1,0 +1,113 @@
+[
+  {
+    "id": "media-1",
+    "title": "Maxine Dexter draws major outside support in OR-03 race",
+    "source": "OPB",
+    "date": "2024-05-09",
+    "url": "https://www.opb.org/article/2024/05/09/maxine-dexter-massive-fundraising-aipac/",
+    "summary": "Coverage of fundraising and outside support dynamics in the OR-03 contest.",
+    "tags": [
+      "AIPAC",
+      "outside spending",
+      "fundraising",
+      "primary"
+    ]
+  },
+  {
+    "id": "media-2",
+    "title": "Portland race outside spending and AIPAC involvement",
+    "source": "The Intercept",
+    "date": "2024-05-10",
+    "url": "https://theintercept.com/2024/05/10/portland-susheela-jayapal-maxine-dexter-aipac-israel/",
+    "summary": "Investigative reporting on spending and donor network relationships in the race.",
+    "tags": [
+      "AIPAC",
+      "outside spending",
+      "PACs",
+      "primary"
+    ]
+  },
+  {
+    "id": "media-3",
+    "title": "Dark money concerns in the OR-03 primary",
+    "source": "Portland Mercury",
+    "date": "2024-05-08",
+    "url": "https://www.portlandmercury.com/news/2024/05/08/47192949/dark-money-casts-a-shadow-on-maxine-dexters-campaign",
+    "summary": "Article focused on dark money and influence concerns tied to campaign finance.",
+    "tags": [
+      "dark money",
+      "outside spending",
+      "primary",
+      "fundraising"
+    ]
+  },
+  {
+    "id": "media-4",
+    "title": "Dexter leads Oregon congressional fundraising and outside money",
+    "source": "Oregon Capital Chronicle",
+    "date": "2024-05-10",
+    "url": "https://oregoncapitalchronicle.com/2024/05/10/dexter-leads-all-oregon-congressional-candidates-in-fundraising-outside-money/",
+    "summary": "Funding leaderboard context across Oregon congressional candidates.",
+    "tags": [
+      "outside spending",
+      "fundraising",
+      "PACs",
+      "primary"
+    ]
+  },
+  {
+    "id": "media-5",
+    "title": "AIPAC and OR-03 funding conflict coverage",
+    "source": "The Intercept",
+    "date": "2024-05-03",
+    "url": "https://theintercept.com/2024/05/03/portland-aipac-susheela-jayapal-maxine-dexter/",
+    "summary": "Coverage of AIPAC-linked spending and donor dynamics in Portland's OR-03 race.",
+    "tags": [
+      "AIPAC",
+      "outside spending",
+      "PACs",
+      "primary"
+    ]
+  },
+  {
+    "id": "media-6",
+    "title": "Primary result coverage",
+    "source": "HuffPost",
+    "date": "2024-05-22",
+    "url": "https://www.huffpost.com/entry/maxine-dexter-wins-oregon-primary_n_664d565ce4b087f368b56e5b",
+    "summary": "Election outcome reporting with campaign finance context.",
+    "tags": [
+      "primary",
+      "fundraising",
+      "outside spending"
+    ]
+  },
+  {
+    "id": "media-7",
+    "title": "KGW coverage on dark money in the OR-03 race",
+    "source": "KGW",
+    "date": "2024-05-13",
+    "url": "https://www.kgw.com/article/news/local/the-story/jayapal-morales-dexter-dark-money-funding-oregon-3rd-congressional-race/283-7889a115-df07-4dad-a1ef-6565745f10f3",
+    "summary": "Broadcast coverage of funding and independent expenditure issues in OR-03.",
+    "tags": [
+      "dark money",
+      "outside spending",
+      "primary",
+      "PACs"
+    ]
+  },
+  {
+    "id": "media-8",
+    "title": "PAC money in OR-03 district race",
+    "source": "OPB",
+    "date": "2024-04-25",
+    "url": "https://www.opb.org/article/2024/04/25/maxine-dexter-pac-money-3rd-congressional-district-race-morales-jayapal/",
+    "summary": "Coverage of PAC money in the 3rd congressional district race.",
+    "tags": [
+      "PACs",
+      "outside spending",
+      "fundraising",
+      "primary"
+    ]
+  }
+]

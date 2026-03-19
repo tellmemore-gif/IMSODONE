@@ -1,0 +1,50 @@
+[
+  {
+    "id": "js-direct-1",
+    "name": "EVANS, RYAN",
+    "amount": 300,
+    "date": "2025-12-15",
+    "employer": "DAY ONE DISTRIBUTION",
+    "donorType": "individual",
+    "city": "PORTLAND",
+    "state": "OR",
+    "zip": "97266",
+    "recipientCommitteeId": "C00923581",
+    "recipientCommitteeName": "J SAL FOR OREGON",
+    "memoText": "",
+    "filingUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260023",
+    "receiptId": "4022820261360143083"
+  },
+  {
+    "id": "js-direct-2",
+    "name": "SALAS, JESSICA",
+    "amount": 100,
+    "date": "2025-10-23",
+    "employer": "TRIMBLE",
+    "donorType": "individual",
+    "city": "PORTLAND",
+    "state": "OR",
+    "zip": "97214",
+    "recipientCommitteeId": "C00923581",
+    "recipientCommitteeName": "J SAL FOR OREGON",
+    "memoText": "",
+    "filingUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260024",
+    "receiptId": "4022820261360143084"
+  },
+  {
+    "id": "js-direct-3",
+    "name": "SALAS, JESSICA",
+    "amount": 100,
+    "date": "2025-12-26",
+    "employer": "",
+    "donorType": "individual",
+    "city": "PORTLAND",
+    "state": "OR",
+    "zip": "97214",
+    "recipientCommitteeId": "C00923581",
+    "recipientCommitteeName": "J SAL FOR OREGON",
+    "memoText": "",
+    "filingUrl": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260026",
+    "receiptId": "4022820261360175428"
+  }
+]

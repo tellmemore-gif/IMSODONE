@@ -1,0 +1,41 @@
+[
+  {
+    "id": "jessica-doc-3",
+    "title": "SALAS, JESSICA -> J SAL FOR OREGON",
+    "type": "Contribution Filing",
+    "date": "2025-12-26",
+    "url": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260026",
+    "tags": [
+      "direct-receipt",
+      "jessica"
+    ],
+    "committeeId": "C00923581",
+    "description": "YE | P2026 | oth26"
+  },
+  {
+    "id": "jessica-doc-1",
+    "title": "EVANS, RYAN -> J SAL FOR OREGON",
+    "type": "Contribution Filing",
+    "date": "2025-12-15",
+    "url": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260023",
+    "tags": [
+      "direct-receipt",
+      "jessica"
+    ],
+    "committeeId": "C00923581",
+    "description": "YE | P2026 | indiv26"
+  },
+  {
+    "id": "jessica-doc-2",
+    "title": "SALAS, JESSICA -> J SAL FOR OREGON",
+    "type": "Contribution Filing",
+    "date": "2025-10-23",
+    "url": "https://docquery.fec.gov/cgi-bin/fecimg/?202601309795260024",
+    "tags": [
+      "direct-receipt",
+      "jessica"
+    ],
+    "committeeId": "C00923581",
+    "description": "YE | P2026 | oth26"
+  }
+]

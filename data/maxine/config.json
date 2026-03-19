@@ -1,0 +1,25 @@
+{
+  "candidateName": "Maxine Dexter",
+  "committeeName": "MAXINE FOR CONGRESS",
+  "committeeIds": [
+    "C00859108"
+  ],
+  "aipacCommitteeIds": [
+    "C00797670",
+    "C00799031"
+  ],
+  "aipacCommitteeNames": [
+    "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE POLITICAL ACTION COMMITTEE",
+    "UNITED DEMOCRACY PROJECT ('UDP')"
+  ],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "raceLabel": "OR-03",
+  "cycleLabel": "2023-2026",
+  "opponentName": "Jessica Salas",
+  "notes": "Ingested from handoff source: data/OR03_DRAG_DROP_PACKAGE_20260318_1125/or03_site_handoff (maxine_dexter/full_2023_2026 + outside spending source: data/OR03_DRAG_DROP_PACKAGE_20260318_1125/or03_site_handoff/shared/outside_spending_deduped.csv + direct committee source: data/OR03_DRAG_DROP_PACKAGE_20260318_1125/or03_site_handoff/maxine_dexter/upstream_network_to_maxine/direct_committee_to_maxine_2023_2026.csv)."
+}

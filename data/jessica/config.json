@@ -1,0 +1,19 @@
+{
+  "candidateName": "Jessica Salas",
+  "committeeName": "J SAL FOR OREGON",
+  "committeeIds": [
+    "C00923581"
+  ],
+  "aipacCommitteeIds": [],
+  "aipacCommitteeNames": [],
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "raceLabel": "OR-03",
+  "cycleLabel": "2023-2026",
+  "opponentName": "Maxine Dexter",
+  "notes": "Ingested from handoff source: data/OR03_DRAG_DROP_PACKAGE_20260318_1125/or03_site_handoff (jessica_salas_receipts_2026.csv)."
+}
